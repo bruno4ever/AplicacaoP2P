@@ -36,33 +36,31 @@ Uma aplicação de criar e votar regras de forma totalmente descentralizada.
 - Só é aceita na lista de tags caso sua avaliação for positiva após 24 horas.
 
 
-### [5] Propor Nova SUBTAG
+#### [5] Propor Nova SUBTAG
 - Publicar uma proposta de Subtag.
 - Uma Subtag só é aceita na lista de subtags caso sua avaliação for positiva após 24 horas.
 
 
-### [6] Visualizar todas as propostas (consensus e bloqueadas)
+#### [6] Visualizar todas as propostas (consensus e bloqueadas)
 - Exibe as propostas do consensus e as bloqueadas.
 - Propostas do consensus sao propostas de usuários com reputação, essas são automaticamente aceitas na cadeia do freechains.
 - Propostas bloqueadas são de usuários que não possuem reputação, essas precisam de um like de outro usuário para serem aceitas na cadeia.
 - Para melhor compreensão, acesse: [Freechains/blocks](https://github.com/Freechains/README/blob/master/docs/blocks.md)
 
 
-### [7] Visualizar as propostas do consensus
+#### [7] Visualizar as propostas do consensus
 - Exibe somente as propostas já aceitas na cadeia do freechains.
 
 
-### [8] Visualizar as propostas bloqueadas
+#### [8] Visualizar as propostas bloqueadas
 - Exibe somente as propostas bloqueadas, para que outro usuário de um like (ou não).
 
----
-
-### [9] Ver sua reputação
+#### [9] Ver sua reputação
 - Verifica a reputação do usuário na rede.
 
 ---
 
-## Funcionalidades Implementadas no Protótipo
+### Funcionalidades Implementadas no Protótipo
 
 - Mecanismo de publicação de propostas na rede.
 - Visualização das propostas de usuários.
@@ -76,7 +74,7 @@ Uma aplicação de criar e votar regras de forma totalmente descentralizada.
 
 ---
 
-## Funcionalidades Não Implementadas
+### Funcionalidades Não Implementadas
 
 - Uso de .json para melhorar a eficiência da execução.
 - Correção de alguns bugs.
@@ -84,7 +82,7 @@ Uma aplicação de criar e votar regras de forma totalmente descentralizada.
 
 ---
 
-## Ferramentas utilizadas para a implementação.
+### Ferramentas utilizadas para a implementação.
 
 1 - Tempo baseado no tempo do Freechains
 
