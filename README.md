@@ -6,6 +6,8 @@ Uma aplicação de criar e votar regras de forma totalmente descentralizada.
 
 ## Manual de Utilização da Aplicação
 
+-- Necessário linux e c++20 ou superior
+
 1. É necessário ter previamente instalado o [Freechains](https://github.com/Freechains/README).
 2. Para entender o sistema de reputação, avaliação e publicação, acesse: [Freechains](https://github.com/Freechains/README).
 3. Este protótipo deve ser executado no mesmo diretório do freechains.
