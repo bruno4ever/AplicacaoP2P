@@ -231,6 +231,8 @@ int regrasVigor() {
     return 1;
 }
 
+// atualizar tags e subtags do sistema
+
 void TagsemVigor() {
     
     
